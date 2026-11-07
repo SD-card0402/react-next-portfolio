@@ -1,14 +1,14 @@
 export const profile = {
-  name: "あなたの名前",
-  role: "Webエンジニアを目指す学生",
+  name: "中澤 めぐみ",
+  role: "ただの学生めぅ",
   introduction:
-    "HTML、CSS、JavaScript、Reactを学びながら、使う人に伝わるWebサイトを制作しています。",
-  location: "京都",
+    "てきとーにアプリ開発したりサイト制作したりしています。自己満の塊〜〜",
+  location: "琵琶湖の中",
   skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
   learningGoals: [
-    "Webサイトの目的に合った情報設計を行う",
-    "ReactとNext.jsの役割の違いを説明する",
-    "自分で制作したWebサイトを公開し、継続して改善する",
+    "欲しいのにねぇなぁこういうアプリっていうものを自給自足する",
+    "様々な技術に触れてみる",
+    "制作したアプリやサイトに触れて、改善点などを見つけていく",
   ],
   links: [
     {
